@@ -1,0 +1,8 @@
+FineTunning OPEN AI MOdels to create a chatbot
+
+--> Gather the data
+--> Convert/structure the data based on the paragraph
+--> Use GPT davinci or any other model to create questions and answers based on the context
+--> Train 2 Models (1 -> check if enough context is provided for that question?? 2 -> to answer the questions)
+
+
