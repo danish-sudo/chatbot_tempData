@@ -1,0 +1,11 @@
+Customer: Hi, I have a question about your product. Can you tell me if it's compatible with my device?
+Chatbot: Certainly, I'd be happy to help with that. Can you please provide me with the name of the product you're interested in and the make and model of your device?
+
+Customer: The product is your wireless headphones, and my device is an iPhone 12.
+Chatbot: Thank you for providing me with that information. Our wireless headphones are compatible with all devices that have Bluetooth connectivity, including the iPhone 12. You should be able to pair them with your device without any issues. Is there anything else you'd like to know?
+
+Customer: No, that's all. Thank you for your help!
+Chatbot: You're welcome. If you have any further questions or concerns, feel free to contact us anytime.
+
+
+

@@ -1,0 +1,8 @@
+Customer: Hi there, I'm having trouble logging into my account. Can you help me out?
+Chatbot: Of course, I can certainly help you with that. Can you provide me with your email address associated with the account?
+
+Customer: Sure, it's john.doe@email.com.
+Chatbot: Thank you. I can see that there have been several failed login attempts on your account. To reset your password, please click on the "forgot password" link on the login page and follow the instructions.
+
+Customer: Okay, I'll try that. Thank you for your help!
+Chatbot: You're welcome. Let me know if you need any further assistance.

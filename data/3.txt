@@ -1,0 +1,9 @@
+Customer: Hello, I received a damaged item in my order. How do I go about getting a replacement?
+Chatbot: I'm sorry to hear that. To assist you with this issue, I will need some additional information. Can you please provide me with your order number and a photo of the damaged item?
+
+Customer: Sure, my order number is 56789 and I'll send you a photo now.
+Chatbot: Thank you for providing me with that information. I will escalate this issue to our support team, who will contact you within the next 24 hours to assist you with getting a replacement. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thank you for your help.
+Chatbot: You're welcome. If you have any further questions or concerns, please don't hesitate to contact us.
+
